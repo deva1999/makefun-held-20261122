@@ -13,7 +13,7 @@ LINES = [
     "The bark is warm from the day.",
     "Your weight barely dents the moss.",
     "Below, the earth turns, slow as sleep.",
-    "Nothing is asked of you.",
+    "Nobody asks anything of you.",
     "Night comes down. The root does not move.",
 ]
 
