@@ -12,6 +12,8 @@ LINES = [
     "i drew you a chair by the window.",
     "it is the soft one. nobody sits in it but you.",
     "the sun comes in at four and stays a while.",
+    "from it you can see the whole street going home.",
+    "i saved you the last biscuit.",
     "your feet can stay up. i will keep the page.",
     "love, ara, 7",
 ]
