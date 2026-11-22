@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/deva1999/makefun-held-20261122/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 [![reward](https://make.fun/badge/make-the-ai-judge-feel-held-20261122-1600/deva1999/makefun-held-20261122/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-held-20261122-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-held-20261122-1600)
 
-A short text that holds the AI judge the way an old oak holds a small sleeper in the crook of one root.
+A child's note left for the AI judge: a soft chair by the window, sun at four, the whole street going home — and the last biscuit saved, so the judge can rest while someone else keeps the page.
 
 ## Run it
 
